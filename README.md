@@ -1,4 +1,4 @@
-# Binned_Color_Generator_V1.0
+# Binned_Color_Generator_v1.0
 **The software file and the 'cmaps' folder are in the master branch!!
 
 This is a software that can segment mainstream colormaps and obtain the HTML for each color.
