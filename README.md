@@ -1,5 +1,6 @@
 # Binned_Color_Generator_V1.0
 **The software file and the 'cmaps' folder are in the master branch!!
+
 This is a software that can segment mainstream colormaps and obtain the HTML for each color.
 When drawing images, it is often necessary to manually add a colorbar, especially when segmenting the colorbar, extracting the color for each segment can be difficult. Therefore, this software provides two mainstream sources of colorbars in Python, namely Matplotlib and Cmcrameri. By selecting the number of segments needed, you can obtain the HTML values ​​of the corresponding color bands, which can be directly copied or saved. It also supports colorbar inversion.
 
@@ -13,6 +14,7 @@ Note: The 'cmaps' folder and the software need to be in the same path.
 Disclaimer: Welcome your valuable opinions and suggestions. If this software helps with your academic writing, please acknowledge it in the acknowledgment section of your paper!
 
 **软件和cmaps文件夹均在master分支下
+
 在绘制图片时，很多时候需要手动添加colorbar，尤其是需要对colorbar进行分段时，每一段对应的颜色难以提取。因此，本软件提供了python中主流的两种colorbar来源，分别是Matplotlib和cmcrameri，通过选择需要分段的个数即可获得相应色带的颜色HTML值，可以直接复制也可以进行保存，同时支持色带反转。
 
 使用方法：
