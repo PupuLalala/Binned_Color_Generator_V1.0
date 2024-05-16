@@ -1,4 +1,7 @@
 # Binned_Color_Generator_v1.0
+**如果国内下载网速不佳，可以使用夸克网盘
+链接：https://pan.quark.cn/s/dbc56c9f3e6c
+
 **The software file and the 'cmaps' folder are in the release part!!
 
 This is a software that can segment mainstream colormaps and obtain the HTML for each color.
